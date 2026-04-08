@@ -51,6 +51,7 @@ Use this file as the working checklist for the repository.
 - [x] Rewrite `README.md` into a polished GitHub-facing project page
 - [x] Make the current project version explicit in the public docs
 - [x] Add a settings modal next to Refresh with persisted UI preferences
+- [x] Embed the tracked main screenshot in `README.md`
 - [x] Keep this list updated while work is in progress
 
 ## Notes

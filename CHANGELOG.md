@@ -64,3 +64,4 @@ All notable repository changes should be recorded here.
 - Rewrote `README.md` into a more complete GitHub-facing project page with clearer product positioning, safety notes, runtime requirements, and fake-vs-real development workflow guidance.
 - Made the current project version explicit in the README while keeping the app manifests aligned at `0.1.0`.
 - Added a settings modal beside Refresh with persisted preferences for default verification and background motion, plus basic runtime/app info.
+- Embedded the tracked main application screenshot at the top of the README.

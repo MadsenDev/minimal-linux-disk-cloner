@@ -2,6 +2,8 @@
 
 Minimal Linux Disk Cloner is a Linux-only desktop app for direct disk-to-disk cloning with `dd`.
 
+![Minimal Linux Disk Cloner main view](screenshots/main_view_screenshot.png)
+
 Current version: `0.1.0`
 
 It is intentionally narrow in scope: choose a source drive, choose a target drive, review warnings, clone, optionally verify, and get a readable final result. It is not a backup suite, image manager, or partition editor.
