@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Minimal Linux Disk Cloner
+Comment=Clone one Linux block device directly onto another with dd
+Exec=mldc
+Icon=mldc
+Terminal=false
+Categories=System;Utility;
+Keywords=disk;clone;dd;linux;
+StartupNotify=true
